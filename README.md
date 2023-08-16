@@ -5,7 +5,7 @@
 - 😄 Technology enthusiast, fascinated by how it can change people's lives and the world since 2015
 - 🔭 I’m currently working on [@RemotaTec](https://www.remotatec.com.br/en/)
 - 🧰 I use `TypeScript`, `React`, `C#/.NET`, `Microservice`, `SQLServer` etc
-- 📕 The latest paper published [Paper](https://content.iospress.com/articles/journal-of-intelligent-and-fuzzy-systems/ifs223656)
+- 📕 The latest paper published: [Paper](https://content.iospress.com/articles/journal-of-intelligent-and-fuzzy-systems/ifs223656)
 - 👯 I’m looking to collaborate and share knowledge.
 
 <br />
